@@ -1,0 +1,17 @@
+{
+  "title": "<OPM>",
+  "description": "<hahaha>",
+  "artist": "<hahaha>",
+  "author": "<hahaha>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<hahaha>",
+      "volume": "<hahaha>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<https://cubari.moe/gist/raw.githubusercontent.com/<https://imgur.com/a/YBwdtW9>>/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
